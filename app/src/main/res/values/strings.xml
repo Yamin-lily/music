@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">music</string>
+    <string name="gs_audio_2fffa_appspot_com">gs://audio-2fffa.appspot.com</string>
+</resources>
